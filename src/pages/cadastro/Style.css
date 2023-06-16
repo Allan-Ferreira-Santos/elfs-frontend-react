@@ -1,0 +1,104 @@
+.register {
+    background-image: url(../../assets/images/fundoLogin.png); 
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 90px 0px 90px 0px;
+}
+
+.register .section {
+    margin-top: 50%;
+    background: white;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.register .section .title {
+    padding-left: 38px ;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    color: #489B8A;
+    font-weight: bold;
+}
+
+.register .section .col-xl-1{
+    width: 3.333333%;
+}
+
+.register .section h1 {
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;   
+}
+
+.register .form {
+    padding: 0px 40px 10px 40px;
+}
+
+.register h2 {
+    padding-top: 30px ;
+    font-size: 16px;
+    font-weight: 700;
+    color: #333333;
+}
+
+.register label {
+    font-weight: bold;
+    font-size: 14px;
+    padding: 20px 0px 5px 5px;
+}
+
+.register input {
+    width: 100%;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #54708C ;
+    border-radius: 4px ;
+    background: #F2F4F8 ;
+}
+
+.register input::placeholder {
+    color: #54708C ;
+}
+
+.register .content select {
+    width: 100%;
+    border: none;
+    padding: 10px 30px 10px 10px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #54708C ;
+    border-radius: 4px ;
+    background: #F2F4F8 ;
+}
+
+.register .col-xl-12 {
+    text-align: right;
+}
+
+.register button {
+    padding: 8px 30px 8px 30px;
+    margin-top: 40px;
+    border: none;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+    background: #489B8A;
+}
+
+.register a {
+    text-decoration: none;
+    color: #489B8A;
+}
+
+.register a:hover {
+    color: #489B8A;
+}

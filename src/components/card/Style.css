@@ -1,0 +1,31 @@
+.cards {
+    width: 22%;
+    border: solid  #efefef;
+    padding: 0px;
+    margin: 10px;
+}
+
+.cards img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.cards .description{
+    text-align: center;
+    padding: 10px 10px 0px 10px;
+}
+
+.cards .typeProduct{
+    margin: 0px;
+    font-size: 16px;
+    color: black;
+    font-family: Roboto, arial;
+    font-weight: bold;
+}
+.cards .price{
+    font-size: 15px;
+    color: black;
+    font-family: Roboto, arial;
+    font-weight: 800;
+}
